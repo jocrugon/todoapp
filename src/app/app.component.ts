@@ -10,11 +10,5 @@ import { CommonModule } from '@angular/common';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'todoapp';
-  name = 'José Darío González Cruz';
-  tasks = [
-    'install angula CLI',
-    'create project',
-    'create components'
-  ];
+
 }
